@@ -92,4 +92,4 @@ Sekarang kamu bisa mulai menghubungkan Firebase dengan ESP32 dan MIT App Invento
 
 ---
 
-🛠 *Tutorial ini dibuat oleh Mardinata Indra K. untuk keperluan proyek IoT monitoring duduk berbasis Firebase.*
+🛠 *Tutorial ini dibuat oleh Mardinata Indra K. untuk keperluan proyek IoT berbasis Firebase.*
